@@ -1,3 +1,5 @@
+**Abandoned project**
+
 # OBS BOARD MANAGER
 
 **This tool will allow you to create automated buttons for OBS management with the Board module of the EvntBoard project.**
